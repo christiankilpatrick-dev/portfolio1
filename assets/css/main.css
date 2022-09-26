@@ -1351,7 +1351,7 @@ body.is-preload #bg:before {
 
 @media screen and (max-width: 1680px) {
 	#wrapper {
-		padding: 3rem 2rem;
+		padding: 4.5rem 2rem 2rem 2rem;
 	}
 }
 
@@ -1457,6 +1457,7 @@ body.is-preload #bg:before {
 	border-bottom-width: 1px;
 	max-width: 100%;
 	margin: 0, 0;
+	width: 40rem;
 }
 
 #header .content .inner {
@@ -1472,7 +1473,7 @@ body.is-preload #bg:before {
 	-webkit-transition-delay: 0.25s;
 	-ms-transition-delay: 0.25s;
 	transition-delay: 0.25s;
-	padding: 1.7rem 4rem 1rem 4rem;
+	padding: 3.5rem 4rem 2.25rem 4rem;
 	max-height: 40rem;
 	overflow: hidden;
 }
@@ -1690,7 +1691,7 @@ body.is-preload #header .content .inner {
 	transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
 	padding: 4.5rem 2.5rem 1.5rem 2.5rem;
 	position: relative;
-	width: 40rem;
+	width: 50rem;
 	max-width: 100%;
 	background-color: rgba(27, 31, 34, 0.85);
 	border-radius: 4px;
