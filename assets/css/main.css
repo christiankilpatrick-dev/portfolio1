@@ -357,6 +357,11 @@ h6 {
 	text-decoration: underline;
 }
 
+#back {
+	display: flex;
+	justify-content: center;
+}
+
 @media screen and (max-width: 736px) {
 	h1 {
 		font-size: 1.75rem;
