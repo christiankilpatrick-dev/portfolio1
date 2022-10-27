@@ -1,0 +1,17 @@
+.calendly {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 2rem;
+	margin-top: 2rem;
+}
+
+#schedule {
+	width: 400px;
+}
+
+.or {
+	margin: 3rem 0rem 2.5rem 0rem;
+	display: flex;
+	justify-content: center;
+	font-size: larger;
+}
